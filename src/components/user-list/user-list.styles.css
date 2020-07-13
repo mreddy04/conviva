@@ -1,0 +1,9 @@
+.user-list table tbody tr {
+    cursor: pointer;
+}
+.user-list table tbody tr.active {
+    background-color: lightblue;
+}
+.user-list table tbody tr:hover {
+    background-color: #efefef;
+}
